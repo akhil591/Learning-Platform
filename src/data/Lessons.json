@@ -1,0 +1,15 @@
+[
+  {
+    "id": "ai-intro",
+    "title": "Intro to AI",
+    "level": "beginner",
+    "content": "AI is the simulation of human intelligence in machines.",
+    "quiz": [
+      {
+        "question": "What does AI stand for?",
+        "options": ["Artificial Ice", "Artificial Intelligence", "Analog Input"],
+        "answer": "Artificial Intelligence"
+      }
+    ]
+  }
+]
